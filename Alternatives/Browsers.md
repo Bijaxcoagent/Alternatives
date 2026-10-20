@@ -28,3 +28,5 @@ A bit more difficult since Chromium is specifically from Google
   LadyBird (This is an independant project funded by multiple companies all around the world; This Browser is not out on public repositories yet and likely will not be until at least 2027)
 
   TODO: continue this list, start with streaming alternatives, do the OS alternatives, refactor this, start with vpns, start with ai, start with social media, start with editors and stuff, start with IDEs
+Browser must haves -> SponsorBlock, uBlock Origin, Plasma Integration (if KDE), Enhancer for Youtube and Auto Tab Discard
+Google -> Qwant, Ecosia
